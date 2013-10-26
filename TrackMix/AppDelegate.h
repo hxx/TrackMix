@@ -11,5 +11,7 @@
 @interface AppDelegate : NSObject <NSApplicationDelegate>
 
 @property (assign) IBOutlet NSWindow *window;
+- (IBAction)Mute:(id)sender;
+- (IBAction)takeFloatValueForVolumeFrom:(id)sender;
 
 @end

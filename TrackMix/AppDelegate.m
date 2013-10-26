@@ -15,4 +15,9 @@
     // Insert code here to initialize your application
 }
 
+- (IBAction)Mute:(id)sender {
+}
+
+- (IBAction)takeFloatValueForVolumeFrom:(id)sender {
+}
 @end
